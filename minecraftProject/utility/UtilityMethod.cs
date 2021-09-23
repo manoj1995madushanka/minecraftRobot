@@ -1,6 +1,6 @@
 namespace minecraftProject.utility
 {
-    public class CommonString
+    public class UtilityMethod
     {
         
     }
